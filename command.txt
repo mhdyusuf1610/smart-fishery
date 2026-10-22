@@ -1,0 +1,7 @@
+[Lokal Tim]                          [GitHub Remote]
+ 1. git checkout -b fitur-A   --->    
+ 2. Kerjakan kode & commit    --->    
+ 3. git push origin fitur-A   --->   4. Buat Pull Request (PR)
+                                     5. Review & Merge ke 'master'
+ 6. git checkout master       <---   
+ 7. git pull origin master    <---   (Ambil update master terbaru)
