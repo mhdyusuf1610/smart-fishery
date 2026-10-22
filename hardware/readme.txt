@@ -1,0 +1,1 @@
+folder ini isinya tentang hardware
